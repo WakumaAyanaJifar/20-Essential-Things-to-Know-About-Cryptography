@@ -1,7 +1,7 @@
 
 
 # **20 Essential Things to Know About Cryptography**
-
+By Jifar Wakuma
 Cryptography is the foundation of secure communication in the digital world. Whether you're a developer, security enthusiast, or just curious, here are 20 key concepts you should know:
 
 ---
@@ -111,6 +111,4 @@ Post-quantum cryptography focuses on developing algorithms resistant to attacks 
 ### **Final Thoughts**
 Cryptography is a vast and evolving field. Understanding these concepts will help you build secure systems and appreciate the importance of protecting data in the digital age.
 
----
 
-Feel free to customize this list further or add examples/code snippets to make it more interactive for your GitHub audience! If you need help with that, let me know. 😊
