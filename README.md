@@ -1,7 +1,7 @@
 
 
 # **20 Essential Things to Know About Cryptography**
-By Jifar Wakuma
+**By Jifar Wakuma**
 Cryptography is the foundation of secure communication in the digital world. Whether you're a developer, security enthusiast, or just curious, here are 20 key concepts you should know:
 
 ---
